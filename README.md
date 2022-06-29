@@ -5,6 +5,7 @@ It is available in this repo: https://github.com/meta-logi/metastudio-support/bl
 Training Videos
 -----
 Additional training videos are available in our YouTube channel: https://www.youtube.com/channel/UCktM-DGv2n2NVvelAoYZe2Q/featured
+
 Training Materials from the videos: https://github.com/meta-logi/metastudio-support/training
 
 Using with Metalogi MetaAgent
