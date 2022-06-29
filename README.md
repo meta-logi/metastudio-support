@@ -6,7 +6,7 @@ Training Videos
 -----
 Additional training videos are available in our YouTube channel: https://www.youtube.com/channel/UCktM-DGv2n2NVvelAoYZe2Q/featured
 
-Training Materials from the videos: https://github.com/meta-logi/metastudio-support/training
+Training Materials from the videos: https://github.com/meta-logi/metastudio-support/tree/main/training
 
 Using with Metalogi MetaAgent
 -----
