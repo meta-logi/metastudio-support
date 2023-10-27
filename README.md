@@ -1,6 +1,6 @@
-MetaStudio Quick User Guide 
+MetaStudio User Guide 
 -----
-It is available in this repo: https://github.com/meta-logi/metastudio-support/blob/main/MetaStudio%20Quick%20Guide.pdf
+https://wiki.metalogi.io/en/MetaStudio
 
 Training Videos
 -----
